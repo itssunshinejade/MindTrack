@@ -18,17 +18,17 @@
  
  
 ##  OOP Concepts Demonstrated
-- #### **Encapsulation**
-`Sensitive data (IDs, email, password, health histories)` are stored in fields and exposed through getters or dedicated methods rather than public fields. Examples : User, Patient, HealthEntry, MentalHealthProfile, PhysicalHealthProfile, and Feedback.
+ #### 💊**Encapsulation**
+  - `Sensitive data (IDs, email, password, health histories)` are stored in fields and exposed through getters or dedicated methods rather than public fields. Examples : User, Patient, HealthEntry, MentalHealthProfile, PhysicalHealthProfile, and Feedback.
 
-- #### **Inheritance**
-`User` is the _abstract base class_. `Patient and Professional` _inherit from User_. `Professional` is _abstract_ and is `extended by Therapist and Doctor`. This multi-level inheritance reduces repetition and models real-world roles.
+ #### 🧬**Inheritance**
+  - `User` is the _abstract base class_. `Patient and Professional` _inherit from User_. `Professional` is _abstract_ and is `extended by Therapist and Doctor`. This multi-level inheritance reduces repetition and models real-world roles.
 
-- #### **Polymorphism**
-Methods like `displayMenu()` are _declared in User and overridden in Patient, Therapist, and Doctor_ so each role has its own menu and behavior. **Professional** defines `displayPatientInfo()` as _abstract_; Therapist and Doctor implement it differently (mental vs physical view).
+ #### 💈**Polymorphism**
+  - Methods like `displayMenu()` are _declared in User and overridden in Patient, Therapist, and Doctor_ so each role has its own menu and behavior. **Professional** defines `displayPatientInfo()` as _abstract_; Therapist and Doctor implement it differently (mental vs physical view).
 
-- #### **Abstraction**
-`User and Professional` are _abstract classes_ that define required behaviors while leaving implementation details to subclasses. This provides a clean contract for role-specific classes.
+ #### 🧮**Abstraction**
+  - `User and Professional` are _abstract classes_ that define required behaviors while leaving implementation details to subclasses. This provides a clean contract for role-specific classes.
 
 
 
