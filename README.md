@@ -88,7 +88,7 @@ VS Code will automatically compile and run all .java files in the folder.
 - Users can log in as Patient, Therapist, or Doctor and interact with the menus
 
 
-## Sample Output
+## 📤 Sample Output
 <img width="386" height="536" alt="image" src="https://github.com/user-attachments/assets/1b372592-e21b-4c17-b9ed-b8033b95ab75" />
 
 
@@ -101,7 +101,7 @@ VS Code will automatically compile and run all .java files in the folder.
 
 
 
-## For Future Enhancements
+## 🔮 For Future Enhancements
 ``` Here are the possible future enhancements:
 - Convert from Console to GUI or Animated Interface     
 - Develop a Web-Based Version (Online Access
@@ -118,7 +118,7 @@ VS Code will automatically compile and run all .java files in the folder.
 
 
 
-## Acknowledgement
+## 🧑‍💻Acknowledgement
 Team QuadroBees genuinely extends their gratitude to their professor for his guidance and instructions provided althroughout the completion of this project in OOP course. The team also want to thank for those helpful resources.
 
 
