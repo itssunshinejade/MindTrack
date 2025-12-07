@@ -3,6 +3,9 @@
 ## Description/Overview
 **Mind Track** is an integrated health management system that helps individuals maintain both mental and physical well-being with a single, user-friendly, console-based platform. It allows users to log their daily moods, stress levels, and self-care activities while tracking vital signs, such as heart rate, blood pressure, and blood sugar. Therapists and physicians can securely access this data to monitor progress, deliver targeted feedback, and offer personalized recommendations. Overall, Mind Track supports a balanced approach to health by showing how mental and physical wellness are connected and by encouraging regular self-checks and communication between patients and healthcare providers.
 
+<img width="1068" height="464" alt="image" src="https://github.com/user-attachments/assets/ad91b981-5937-443e-be26-212826741cd1" />
+
+
 
  
 ## 🪧 Features
@@ -86,6 +89,12 @@ VS Code will automatically compile and run all .java files in the folder.
 
 
 ## Sample Output
+<img width="386" height="536" alt="image" src="https://github.com/user-attachments/assets/1b372592-e21b-4c17-b9ed-b8033b95ab75" />
+
+
+
+<img width="355" height="538" alt="image" src="https://github.com/user-attachments/assets/2b0da081-fd87-4266-b02a-f98c81776cdc" />
+
 
 
 
@@ -109,9 +118,8 @@ VS Code will automatically compile and run all .java files in the folder.
 
 
 
-
 ## Acknowledgement
-The 
+Team QuadroBees genuinely extends their gratitude to their professor for his guidance and instructions provided althroughout the completion of this project in OOP course. The team also want to thank for those helpful resources.
 
 
 ## 👥 Contributors 👥
@@ -126,7 +134,8 @@ The
 
 
 ## REFERENCES
-[![Unicode](https://img.shields.io/badge/Simpleicons-%23111111?style=plastic&logo=%23111111&logoColor=red&labelColor=black&color=black)](https://www.compart.com/en/unicode/block/U+2500) 
+[![Unicode](https://img.shields.io/badge/Unicode-%23111111?style=plastic&logo=%23111111&logoColor=red&labelColor=black&color=black)](https://www.compart.com/en/unicode/block/U+2500) 
+[![SimpleIcons](https://img.shields.io/badge/Simpleicons-%23111111?style=plastic&logo=%23111111&logoColor=red&labelColor=black&color=black)](https://simpleicons.org/) 
 [![StaticBadge](https://img.shields.io/badge/static%20badge-000000?style=plastic&logo=non&logoColor=red&labelColor=white&color=green)](https://shields.io/badges/static-badge)
 [![VSCode](https://img.shields.io/badge/VS%20Code-000000?style=plastic&logo=non&logoColor=red&labelColor=white&color=blue)](https://code.visualstudio.com/)
 [![Github](https://img.shields.io/badge/Github-000000?style=plastic&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/)
